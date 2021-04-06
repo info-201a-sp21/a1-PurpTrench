@@ -4,8 +4,7 @@ Despite the frigid conditions of Mars, NASA’s Ingenuity helicopter that detach
 
 > Jezero Crater, an ancient lake bed on Mars and the current site of the Perseverance rover and Ingenuity helicopter, can drop to temperatures of minus 130 degrees Fahrenheit. That's low enough to do significant damage to the helicopter's electrical and battery components.
 
-![Here is a photo of Ingenuity captured by NASA's Perseverance rover on the surface of Mars](imgs/ingenuity.jpg)
-
+![](imgs/ingenuity.jpeg)
 
 
 Other highlights:
