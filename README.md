@@ -1,5 +1,15 @@
-# a1-news
+# NASA’s Ingenuity drone on Mars survives its first night before its test flight
 
-In this assignment, you'll edit this `README.md` file to create a Markdown document that describes a news story (full instructions on Canvas). You'll also answer questions, mostly about how to use the terminal in the `other-questions.md` file: **don't forget** to complete the instructions in that file!
+Despite the frigid conditions of Mars, NASA’s Ingenuity helicopter that detached from the Perseverance rover survived one night on the planet’s surface. Ingenuity will soon take off for its first flight and could potentially happen on April 11th. This event could reveal to the world **actual footage** from the surface of Mars at a bird’s-eye view for the _first_ time in history. CNN’s report details the harsh conditions Ingenuity had to endure:
 
-To perform the instructions on Canvas, you should **delete this text**, leaving only the Markdown that you've written to render your news page. Make sure to **submit this GitHub URL** to Canvas on time for full credit.
+> Jezero Crater, an ancient lake bed on Mars and the current site of the Perseverance rover and Ingenuity helicopter, can drop to temperatures of minus 130 degrees Fahrenheit. That's low enough to do significant damage to the helicopter's electrical and battery components.
+
+![Here is a photo of Ingenuity captured by NASA's Perseverance rover on the surface of Mars](imgs/ingenuity.jpg)
+
+
+
+Other highlights:
+
+Ingenuity’s flight will last around 90 seconds
+The drone can perform up to five test flights
+There are several preflight steps that the drone must undergo before taking off
