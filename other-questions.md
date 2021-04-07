@@ -16,6 +16,7 @@ cd '.\a1-PurpTrench\'
 mkdir imgs
 # Add all of your changes that you've made to git
 git add README.md
+git add imgs
 # Make a commit of your changes, including a descriptive message
 git commit -m "Added links to the 'Other highlights' section with each linking to different articles, fixed ingenuity.jpeg not displaying, created text box, and created three sentence paragraph with bold, italicized, and hyperlinked words."
 # Push your change up to GitHub
